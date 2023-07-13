@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往QQ群：**[Chat GPT交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721)** QQ群 **置顶公告内** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n**提问：** 既然是公益版为什么还要设置密码使用？😤\n\n**回答：** 公益版完全免费，设置密码是为了防止直接共享的API被盗用。💝\n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n卡顿或无响应？可能是用户量太大， [点这里获得独立账号 APIKEY 使用](https://faka.51mfzy.top/)\n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
+      "前往QQ群：**[Chat GPT交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721)** QQ群 **置顶公告内** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n**提问：** 既然是公益版为什么还要设置密码使用？😤\n\n**回答：** 公益版完全免费，设置密码是为了防止直接共享的API被盗用。💝\n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n卡顿或无响应？可能是用户量太大， [点这里获得独立账号 APIKEY 使用](https://faka.aixbus.top/)\n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
   },
   Auth: {
     Title: "需要密码",
@@ -212,12 +212,12 @@ const cn = {
       },
       IsChecking: "正在检查…",
       Check: "重新检查",
-      NoAccess: "输入 API Key 或访问密码查看余额",
+      NoAccess: "输入QQ公告内的访问密码输入即可",
     },
     AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
+      Title: "QQ群公告内的访问密码",
+      SubTitle: "在此输入QQ群提供的访问密码，不定期更换密码",
+      Placeholder: "请输入QQ群公告密码",
     },
     Endpoint: {
       Title: "接口地址",
@@ -251,7 +251,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "卡顿或无响应？可能是用户量太大[点这里获得独立账号 APIKEY 使用](https://faka.aixbus.top/)。\n\n有什么可以帮你的吗？继续使用输入你的问题或命令",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
