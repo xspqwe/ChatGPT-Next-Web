@@ -273,7 +273,7 @@ const cn = {
     Revert: "恢复上下文",
   },
   Plugin: {
-    Name: "插件",
+    Name: "购买独享账号",
   },
   Mask: {
     Name: "面具",
