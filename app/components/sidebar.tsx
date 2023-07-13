@@ -116,9 +116,7 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
-        <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          <h3 style="font-family: Arial, sans-serif; background: linear-gradient(to right, #ff69b4, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">ChatGPT公益版</h3>
-        </div>
+        <h3 style="font-family: Arial, sans-serif; background: linear-gradient(to right, #ff69b4, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">AI 小巴士 - ChatGPT</h3>
         <div className={styles["sidebar-sub-title"]}>
           进QQ交流群594122721免费获取访问密码
         </div>
