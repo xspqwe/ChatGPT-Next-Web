@@ -1,7 +1,7 @@
-export const OWNER = "Yidadaa";
-export const REPO = "ChatGPT-Next-Web";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
-export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
+export const OWNER = "cgi-bin";
+export const REPO = "qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721";
+export const REPO_URL = `http://qm.qq.com/${OWNER}/${REPO}`;
+export const ISSUE_URL = `https://github.com/Yidadaa/ChatGPT-Next-Web/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
