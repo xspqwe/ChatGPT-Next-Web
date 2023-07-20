@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往QQ群：**[Chat GPT交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721)** QQ群 **置顶公告内** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n**提问：** 既然是公益版为什么还要设置密码使用？😤\n\n**回答：** 公益版完全免费，设置密码是为了防止直接共享的API被盗用。💝\n\n** 本站使用小巴士API提供的令牌**😍\n\n** 小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** ✉️\n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n卡顿或无响应？可能是用户量太大， [点这里获得独立账号 APIKEY 使用](https://faka.aixbus.top/)\n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
+      "前往QQ群：**[Chat GPT交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721)** QQ群 **置顶公告内** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n**提问：** 既然是公益版为什么还要设置密码使用？😤\n\n**回答：** 公益版完全免费，设置密码是为了防止直接共享的API被盗用。💝\n\n**本站使用小巴士API提供的令牌**😍\n\n**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)**✉️\n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n卡顿或无响应？可能是用户量太大， [点这里获得独立账号 APIKEY 使用](https://faka.aixbus.top/)\n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
   },
   Auth: {
     Title: "需要密码",
