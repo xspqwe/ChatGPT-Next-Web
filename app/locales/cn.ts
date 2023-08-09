@@ -251,7 +251,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** ✉️\n\n有什么可以帮你的吗？继续使用输入你的问题或命令",
+    BotHello: "**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** ✉️\n\n **不想麻烦了直接注册AI小巴士登陆即可使用** [AI小巴士点击注册登录使用](https://chat.aixbus.com/)\n\n有什么可以帮你的吗？继续使用输入你的问题或命令",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
