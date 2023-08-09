@@ -220,7 +220,7 @@ const cn = {
       Placeholder: "请输入QQ群公告密码",
     },
     Endpoint: {
-      Title: "接口地址",
+      Title: "接口地址(使用小巴士API时勿改)",
       SubTitle: "输入https://api.aixbus.top",
     },
     CustomModel: {
