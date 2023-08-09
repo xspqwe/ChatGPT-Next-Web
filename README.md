@@ -3,7 +3,7 @@
 
 <h1 align="center">ChatGPT Next1 Web</h1>
 
-English / [简体中 文](./README_CN.md)
+English / [简体中  文](./README_CN.md)
 
 One-Click to get well-designed cross-platform ChatGPT web UI.
 
