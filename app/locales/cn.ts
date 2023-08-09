@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "前往QQ群：**[Chat GPT交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zu9GwYV_G4QoaAgLLHupQe6uhVkRHLS4&authKey=PdnVbJpRjMd7Cc%2BjIq2eoKxC3WcZ8fb8NcgAuD8R5hTmmQdgVzhQwKmMNF2OwjcL&noverify=0&group_code=594122721)** QQ群 **置顶公告内** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n**提问：** 既然是公益版为什么还要设置密码使用？😤\n\n**回答：** 公益版完全免费，设置密码是为了防止直接共享的API被盗用。💝\n\n**本站使用小巴士API提供的令牌**😍\n\n**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)**✉️\n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n卡顿或无响应？可能是用户量太大， [点这里获得独立账号 APIKEY 使用](https://faka.aixbus.top/)\n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
+      "前往小巴士API获取令牌：**[小巴士API](http://api.aixbus.top)** 注册后点令牌获取令牌，然后点击左下角[设置](/#/settings)按钮在APIKRY内输入令牌后解锁。\n\n**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** \n\n **[更多AI资讯站及使用安装教程](https://51mfzy.top/)** \n\n欢迎来QQ群聊聊💬\n\n ![图片]( /qqqun.png)",
   },
   Auth: {
     Title: "需要密码",
@@ -200,9 +200,9 @@ const cn = {
       SubTitle: "当未压缩的历史消息超过该值时，将进行压缩",
     },
     Token: {
-      Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
-      Placeholder: "OpenAI API Key",
+      Title: "小巴士API令牌",
+      SubTitle: "使用自己的小巴士API令牌",
+      Placeholder: "小巴士API令牌",
     },
 
     Usage: {
@@ -212,7 +212,7 @@ const cn = {
       },
       IsChecking: "正在检查…",
       Check: "重新检查",
-      NoAccess: "输入QQ公告内的访问密码输入即可",
+      NoAccess: "输入小巴士API令牌即可",
     },
     AccessCode: {
       Title: "QQ群公告内的访问密码",
@@ -221,7 +221,7 @@ const cn = {
     },
     Endpoint: {
       Title: "接口地址",
-      SubTitle: "除默认地址外，必须包含 http(s)://",
+      SubTitle: "输入https://api.aixbus.top",
     },
     CustomModel: {
       Title: "自定义模型名",
@@ -251,7 +251,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "卡顿或无响应？可能是用户量太大[点这里获得独立账号APIKEY使用](https://faka.aixbus.top/)。\n\n**本站使用小巴士API提供的令牌**😍\n\n**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** ✉️\n\n有什么可以帮你的吗？继续使用输入你的问题或命令",
+    BotHello: "**小巴士API支持GPT4，支持市面上99%的GPTAPI接口调用，充多少用多少1元=1美金，无惧ChatGPT封号风险[小巴士API点击注册使用](https://api.aixbus.top/)** ✉️\n\n有什么可以帮你的吗？继续使用输入你的问题或命令",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
